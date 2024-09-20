@@ -1,10 +1,12 @@
 /* Add a background color to the header element */
     header {
-        background-color: teal;
+        background-color: lightpink;
+        padding: 10px 10px;
     }
 /* Add a fun background color to the main element */
     main {
-        background-color: plum;
+        background-color: mediumpurple;
+        padding: 10px;
     }
 /* Align the h1 containing your name in the center of the header*/
     h1 {
@@ -12,12 +14,14 @@
     }
 /* Make your p tag a different color and italic */
     p {
-        color: blueviolet;
+        color: slateblue;
         font-style: italic;
     }
 /* Put a border around your image */
     img {
-        border: 5px 10px solid black
+        border: 5px solid white;
+        width: 100px;
+        height: auto;
     }
 /* Change the font-family of your list */
     ul {
@@ -26,4 +30,5 @@
 /* Add a background color to the footer element */
     footer {
         background-color: bisque;
+        padding: 10px;
     }
